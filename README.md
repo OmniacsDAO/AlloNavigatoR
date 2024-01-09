@@ -3,7 +3,7 @@ An awesome tool to visualise Allo Protocol Data in R+Shiny
 
 ## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=8d8SEt) <<< Click Here
 
-## [App deployed on a tiny droplet](http://143.110.238.86:52) <<< Click Here
+## [App deployed on a tiny droplet](http://143.198.107.189:4539) <<< Click Here
 
 <hr>
 
