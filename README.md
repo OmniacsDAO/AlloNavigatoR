@@ -1,8 +1,8 @@
 # AlloNavigatoR
 
-<img src="www/AlloNav3.gif" align="center"/>
-
 AlloNavigatoR is a small, lightweight, but awesome tool developed to visualise Allo Protocol Data in R+Shiny. Built on top of our other, soon to be award winning hackathon submission AlloDataR, this app checks all of the boxes.  It has insightful, easy to understand statistics on round funding, tracks project donations and has information on individual contributions.  It is a complete, open source solution that is ready for deployment so that grant program managers can make more informed data driven decisions.
+
+<img src="www/AlloNav3.gif" align="center"/>
 
 ## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=8d8SEt) <<< Click Here
 
