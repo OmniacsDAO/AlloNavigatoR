@@ -50,18 +50,26 @@ runApp()
     * Top Donors
     * Top Funded Projects
     * Top Funded Rounds
+<img src="www/1.png" align="center"/>
+<div align="center">Overview</div>
+
 2. Round
     * Round Characteristics
     *	Donation Stats
     *	Top Funded Projects in this Round
+<img src="www/2.png" align="center"/>
+<div align="center">Round</div>
+
 3. Project
     *	Donation Stats
     *	Round Stats
     *	Top Rounds Participated In
+<img src="www/3.png" align="center"/>
+<div align="center">Project</div>
+
 4. Donor
     *	Donation Stats
     *	Participation Stats
     *	Top Projects Donated To
-
-<img src="www/AlloNavigatoR.jpg" align="center"/>
-<div align="center">Dashboard</div>
+<img src="www/4.png" align="center"/>
+<div align="center">Donor</div>
