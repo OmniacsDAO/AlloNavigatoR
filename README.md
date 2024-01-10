@@ -40,7 +40,25 @@ library(shiny)
 runApp()
 ```
 
+#### Dashboard Features
+
+1. Overview
+    * Donation Stats
+    * Top Donors
+    * Top Funded Projects
+    * Top Funded Rounds
+2. Round
+    * Round Characteristics
+    *	Donation Stats
+    *	Top Funded Projects in this Round
+3. Project
+    *	Donation Stats
+    *	Round Stats
+    *	Top Rounds Participated In
+4. Donor
+    *	Donation Stats
+    *	Participation Stats
+    *	Top Projects Donated To
+
 <img src="www/AlloNavigatoR.jpg" align="center"/>
 <div align="center">Dashboard</div>
-
-<hr>
