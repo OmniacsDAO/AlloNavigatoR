@@ -3,6 +3,7 @@ library(shiny)
 library(bslib)
 library(bsicons)
 library(shinyjs)
+library(shinycssloaders)
 
 ui <- page_sidebar(title = NULL,theme =  bs_theme(),useShinyjs(),window_title = "AlloNavigatoR",
     ########################################################################
@@ -28,23 +29,23 @@ ui <- page_sidebar(title = NULL,theme =  bs_theme(),useShinyjs(),window_title = 
         id = "nav",selected="Overview",
         nav_panel(title = "Overview",
             br(),
-            uiOutput("tabOV"),
-            uiOutput("tabOP"),
+            withSpinner(uiOutput("tabOV")),
+            withSpinner(uiOutput("tabOP")),
         ),
         nav_panel(title = "Round",
             br(),
-            uiOutput("tabRV"),
-            uiOutput("tabTP"),
+            withSpinner(uiOutput("tabRV")),
+            withSpinner(uiOutput("tabTP")),
         ),
         nav_panel(title = "Project",
             br(),
-            uiOutput("tabPV"),
-            uiOutput("tabPP"),
+            withSpinner(uiOutput("tabPV")),
+            withSpinner(uiOutput("tabPP")),
         ),
         nav_panel(title = "Donor",
             br(),
-            uiOutput("tabCV"),
-            uiOutput("tabCP"),
+            withSpinner(uiOutput("tabCV")),
+            withSpinner(uiOutput("tabCP")),
         ),
     )
     ########################################################################
