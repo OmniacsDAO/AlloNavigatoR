@@ -4,7 +4,7 @@ AlloNavigatoR is a small, lightweight, but awesome tool developed to visualise A
 
 <img src="www/AlloNav3.gif" align="center"/>
 
-## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=8d8SEt) <<< Click Here
+## [App Walkthrough on YouTube](https://www.youtube.com/watch?v=Hk27QEWJFWs) <<< Click Here
 
 ## [App deployed on a tiny droplet](http://143.198.107.189:4539) <<< Click Here
 
